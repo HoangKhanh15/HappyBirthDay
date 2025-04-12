@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Chào bé iu của anh, bức thư này gửi đến em những lời chúc tốt đẹp nhất, và chứa đựng tình yêu của anh dành cho em. Bấm vào hộp quà nhé <3" //Lời mở đầu cho bức thư
-const mainContentLetter = "Hôm nay là ngày 14/4 – một ngày rất đặc biệt…Vì đây là ngày mà một cô gái xinh đẹp, đáng yêu và tuyệt vời nhất anh từng gặp đã xuất hiện trên thế giới này. Chúc em – người con gái của anh – một sinh nhật thật rực rỡ, rạng ngời như chính nụ cười em. Chúc em luôn là cô bé ngọt ngào, tự tin, và mỗi ngày đều là phiên bản hạnh phúc nhất của chính mình. Anh yêu em bé của anh nhiều!!." //Nội dung của bức thư
+const mainContentLetter = "Hôm nay là ngày 13/4 – một ngày rất đặc biệt…Vì đây là ngày mà một cô gái xinh đẹp, đáng yêu và tuyệt vời nhất anh từng gặp đã xuất hiện trên thế giới này. Chúc em – người con gái của anh – một sinh nhật thật rực rỡ, rạng ngời như chính nụ cười em. Chúc em luôn là cô bé ngọt ngào, tự tin, và mỗi ngày đều là phiên bản hạnh phúc nhất của chính mình. Anh yêu em!!." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
